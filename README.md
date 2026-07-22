@@ -6,7 +6,7 @@ This project performs real-time object detection using the YOLOv8 model and Open
 
 ## 📸 Project Preview
 
-![Project Screenshot](screenshots/screenshot_1784423455.jpg)
+![Result](screenshots/screenshot_1784682666.jpg)
 
 
 
