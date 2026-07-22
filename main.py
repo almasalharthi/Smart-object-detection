@@ -5,7 +5,7 @@ import time
 import os 
 
 # Load YOLO model
-model = YOLO("yolov8n.pt")
+model = YOLO("models/yolov8n.pt")
 
 # Open webcam
 cap = cv2.VideoCapture(0)
